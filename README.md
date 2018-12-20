@@ -76,3 +76,4 @@ Limit BTC Deposit* is a option to disable the deposits after the amount of btc/l
 You will notice that the database will say btc but will mean LTC BTC AND ETH dont worry about it. The deposits say this too. You can see all of the deposits on coinpayments if it bothers you edit the code.
 
 Your total btc is accurate to the total btc you have gained it adds up ltc eth and all of that and computes the output to btc
+sdf sd sdf sdf sdf wef wef
